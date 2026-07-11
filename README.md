@@ -6,7 +6,7 @@ I take ML systems from exploratory notebook to validated production — and I di
 
 ## Now
 
-- **Document AI @ S&P Global Commodity Insights** — computer-vision digitization of large scanned archives. I work on the pipeline's neural extraction models (vision transformers, LoRA fine-tuning) and its evaluation methodology. Project specifics stay with the company — the transferable methodology is public in [`leak-free-ml-evaluation`](https://github.com/pacocuevasg/leak-free-ml-evaluation).
+- **Enterprise document AI (internship)** — computer-vision digitization of large scanned archives: I work on the pipeline's neural extraction models (vision transformers, LoRA fine-tuning) and its evaluation methodology. Employer and project specifics stay private — the transferable methodology is public in [`leak-free-ml-evaluation`](https://github.com/pacocuevasg/leak-free-ml-evaluation).
 - **Building DocOS** — a medical-office platform with an autonomous WhatsApp AI agent (Twilio, n8n, Gemini, Supabase) that pre-screens patients and generates structured clinical summaries. Relational schema aligned to FHIR R5 — design notes in [`fhir-mini-schema`](https://github.com/pacocuevasg/fhir-mini-schema).
 
 ## How I work
